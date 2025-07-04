@@ -35,3 +35,16 @@ In Figure \ref{fig:system-visualisation} and Figure \ref{fig:system-visualisatio
     \caption{Example of review and all the nodes connected to it as well as the relationships between those nodes connected to it. The blue one is the hotel, the green one the review, and the yellow ones are subjects/object extracted from the review text. }
     \label{fig:system-visualisation-review}
 \end{figure}
+
+# Data Illustration
+
+The distribution per rating score can be seen in Figure~\ref{fig:reviews_per_rating}.
+
+[fig:reviews_per_rating](reviews_per_rating.png)
+
+% \begin{figure}[t]
+%     \centering
+%     \includegraphics[width=0.5\textwidth]{bachthesis2019/reviews_per_rating.png}
+%     \caption{Distribution of the number of reviews per rating score (1 to 5).}
+%     \label{fig:reviews_per_rating}
+% \end{figure}
