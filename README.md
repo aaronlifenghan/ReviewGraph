@@ -40,7 +40,7 @@ In Figure \ref{fig:system-visualisation} and Figure \ref{fig:system-visualisatio
 
 The distribution per rating score can be seen in Figure~\ref{fig:reviews_per_rating}.
 
-[fig:reviews_per_rating](reviews_per_rating.png)
+[fig:reviews_per_rating](https://github.com/aaronlifenghan/ReviewGraph/blob/main/reviews_per_rating.png)
 
 % \begin{figure}[t]
 %     \centering
