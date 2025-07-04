@@ -20,7 +20,7 @@ In Figure \ref{fig:system-visualisation} and Figure \ref{fig:system-visualisatio
 
 [fig:system-visualisation](https://github.com/aaronlifenghan/ReviewGraph/blob/main/visualization.png)
 
-fig:system-visualisation-review
+
 
 \begin{figure}[H]
     \centering
