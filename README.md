@@ -16,6 +16,12 @@ Some of the current features are:
 
 In Figure \ref{fig:system-visualisation} and Figure \ref{fig:system-visualisation-review} are some examples of how the visualisation currently works. Every node is interactable and when clicked on shows all the nodes it is connected to.
 
+[fig:system-visualisation-review](https://github.com/aaronlifenghan/ReviewGraph/blob/main/review.png)
+
+[fig:system-visualisation](https://github.com/aaronlifenghan/ReviewGraph/blob/main/visualization.png)
+
+fig:system-visualisation-review
+
 \begin{figure}[H]
     \centering
     \includegraphics[width=1\linewidth]{bachthesis2019/visualization.png}
