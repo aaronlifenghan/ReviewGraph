@@ -2,7 +2,7 @@
 ReviewGraph project with visualisation features
 
 
-\section{System Output Visualisation}
+# {System Output Visualisation}
 While the visualisation aspect was not the core focus of our study, we did find that the graph structure of our model has natural potential of being a useful data visualisation tool. 
  
 Currently we developed several minor features for this graph visualisation, which lets the user sort the graph to show data they are specifically interested in. More features can easily be added in the future. 
