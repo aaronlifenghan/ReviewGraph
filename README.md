@@ -59,3 +59,6 @@ Any reviews longer than 1000 words were removed from this chart for readability 
     \caption{Distribution of reviews by their length}
     \label{fig:reviews_per_length}
 \end{figure}
+
+# {Appendix on more examples and evaluations}
+[example of triples and overall 10fold cross-validation eval table](https://github.com/aaronlifenghan/ReviewGraph/blob/main/Appendix-triples-10folds.pdf)
