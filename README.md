@@ -42,12 +42,12 @@ The distribution per rating score can be seen in Figure~\ref{fig:reviews_per_rat
 
 [fig:reviews_per_rating](https://github.com/aaronlifenghan/ReviewGraph/blob/main/reviews_per_rating.png)
 
-% \begin{figure}[t]
-%     \centering
-%     \includegraphics[width=0.5\textwidth]{bachthesis2019/reviews_per_rating.png}
-%     \caption{Distribution of the number of reviews per rating score (1 to 5).}
-%     \label{fig:reviews_per_rating}
-% \end{figure}
+\begin{figure}[t]
+    \centering
+    \includegraphics[width=0.5\textwidth]{bachthesis2019/reviews_per_rating.png}
+    \caption{Distribution of the number of reviews per rating score (1 to 5).}
+    \label{fig:reviews_per_rating}
+\end{figure}
 
 The distribution of review lengths can be seen in Figure~\ref{fig:reviews_per_length}. 
 Any reviews longer than 1000 words were removed from this chart for readability purposes.
