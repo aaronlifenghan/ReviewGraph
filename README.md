@@ -60,5 +60,7 @@ Any reviews longer than 1000 words were removed from this chart for readability 
     \label{fig:reviews_per_length}
 \end{figure}
 
+ReviewGraph Codebase:
+https://github.com/bertdevink2000/ReviewGraph 
 # Appendix on key codes, Triple examples and cross-validation evaluations
 [example of triples extracted, key codes, and overall 10fold cross-validation eval table](https://github.com/aaronlifenghan/ReviewGraph/blob/main/Appendix-triples-10folds.pdf)
