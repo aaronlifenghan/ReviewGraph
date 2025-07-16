@@ -63,5 +63,5 @@ Any reviews longer than 1000 words were removed from this chart for readability 
 # ReviewGraph Codebase:
 https://github.com/bertdevink2000/ReviewGraph 
 
-# Appendix on key codes, Triple examples and cross-validation evaluations
+# Appendix on Extracted Triple examples and 10-fold cross-validation evaluations
 [example of triples extracted, key codes, and overall 10fold cross-validation eval table](https://github.com/aaronlifenghan/ReviewGraph/blob/main/Appendix-triples-10folds.pdf)
