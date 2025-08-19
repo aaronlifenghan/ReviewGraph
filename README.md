@@ -1,5 +1,5 @@
 # ReviewGraph
-ReviewGraph project with visualisation features. code and data to be shared here.
+ReviewGraph project with visualisation features: code and data to be shared here.
 
 
 # {System Output Visualisation}
