@@ -1,4 +1,4 @@
-# ReviewGraph
+# ReviewGraph: A Knowledge Graph Embedding Based Framework for Review Rating Prediction with Sentiment Features
 ReviewGraph project with visualisation features: code and data to be shared here.
 
 
@@ -67,9 +67,7 @@ https://github.com/bertdevink2000/ReviewGraph
 [example of triples extracted, key codes, and overall 10fold cross-validation eval table](https://github.com/aaronlifenghan/ReviewGraph/blob/main/Appendix-triples-10folds.pdf)
 
 # Cite us
-ReviewGraph: A Knowledge Graph Embedding Based Framework for Review Rating Prediction with Sentiment Features
-AJW de Vink, N Amat-Lefort, L Han
-arXiv preprint arXiv:2508.13953
+ReviewGraph: A Knowledge Graph Embedding Based Framework for Review Rating Prediction with Sentiment Features. AJW de Vink, N Amat-Lefort, L Han. Forthcoming in ICKG-2025. arXiv preprint arXiv:2508.13953
 
 # Bibtex:
 @misc{devink2025reviewgraphknowledgegraphembedding,
