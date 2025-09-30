@@ -65,3 +65,25 @@ https://github.com/bertdevink2000/ReviewGraph
 
 # Appendix on Extracted Triple examples and 10-fold cross-validation evaluations
 [example of triples extracted, key codes, and overall 10fold cross-validation eval table](https://github.com/aaronlifenghan/ReviewGraph/blob/main/Appendix-triples-10folds.pdf)
+
+# Cite us
+ReviewGraph: A Knowledge Graph Embedding Based Framework for Review Rating Prediction with Sentiment Features
+AJW de Vink, N Amat-Lefort, L Han
+arXiv preprint arXiv:2508.13953
+
+# Bibtex:
+@misc{devink2025reviewgraphknowledgegraphembedding,
+      title={ReviewGraph: A Knowledge Graph Embedding Based Framework for Review Rating Prediction with Sentiment Features}, 
+      author={A. J. W. de Vink and Natalia Amat-Lefort and Lifeng Han},
+      year={2025},
+      eprint={2508.13953},
+      archivePrefix={arXiv},
+      primaryClass={cs.CL},
+      url={https://arxiv.org/abs/2508.13953}, 
+}
+
+# News: we are presenting this work at [ICKG-2025](https://cyprusconferences.org/ickg2025/) 
+The 16th IEEE International Conference on Knowledge Graphs
+ICKG 2025
+November 13-14, 2025
+Limassol, Cyprus
